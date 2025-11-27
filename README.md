@@ -42,22 +42,23 @@ Para o desenvolvimento da plataforma, foram utilizadas as seguintes tecnologias:
 
 | **Prioridade** | **Descrição**                                                                                  |
 |----------------|-----------------------------------------------------------------------------------------------|
-| 1              | Os estudantes, professores e população local devem cadastrar seus respectivos perfis no aplicativo, com informações como nome de usuário, email e senha. |
-| 2              | Usuários devem conseguir procurar por serviços específicos oferecidos pelo NAF dentro da plataforma. |
-| 3              | Os usuários devem ser capazes de visualizar os horários disponíveis e agendar atendimentos de forma online. |
-| 4              | O sistema deve enviar e-mails automáticos de confirmação e lembrete de agendamentos para os usuários. |
-| 5              | Os usuários devem ter a opção de fornecer feedback e avaliar os atendimentos recebidos.         |
+| 1              | O sistema deve permitir o Cadastro e Login básico (e-mail e senha) para usuários. |
+| 2              | O sistema deve permitir que o NAF (Administrador) faça Login com um perfil pré-cadastrado. |
+| 3              | O sistema deve exibir os Serviços Principais disponíveis (ex: Declaração IR). |
+| 4              | O sistema deve exibir o Calendário com os slots de horários disponíveis para agendamento. |
+| 5              | O sistema deve permitir a Seleção do serviço, cidade, data e horário e a Realização do Agendamento.  |
+| 6              | O sistema deve registrar o agendamento e enviar uma Confirmação Simples por e-mail.  |
+| 7              | O sistema deve permitir ao ustário Consultar seus agendamentos futuros.  |
+| 8              | O sistema deve permitir ao NAF Visualizar a lista de todos os agendamentos (simplesmente uma lista).  |
 
 ## Não Funcionais
 
 | **Prioridade** | **Descrição**                                                                                  |
 |----------------|-----------------------------------------------------------------------------------------------|
-| 1              | A plataforma deve proporcionar uma experiência de uso intuitiva, com instruções claras e suporte disponível para resolver dúvidas dos usuários. |
-| 2              | A solução deve ser compatível com diferentes dispositivos e navegadores, permitindo o acesso tanto em computadores quanto em dispositivos móveis. |
-| 3              | O sistema deve ser capaz de suportar um aumento no número de usuários e agendamentos sem comprometer o desempenho. |
-| 4              | O sistema deve garantir a segurança e privacidade dos dados pessoais dos usuários, em conformidade com as normas de proteção de dados. |
-| 5              | O sistema deve funcionar 24 horas por dia, 7 dias por semana.                                  |
-| 6              | O sistema deve permitir atualizações e manutenção com o mínimo de interrupção para os usuários, idealmente em horários de baixa demanda. |
+| 1              | O sistema deve ter uma interface web responsiva que funcione em desktop e celular. |
+| 2              | A solução deve ser compatível com diferentes dispositivos e navegadores, permitindo o acesso tanto em computadores quanto em dispositivos móveis |
+| 3              | O sistema deve ser capaz de suportar um número de usuários e agendamentos sem comprometer o desempenho. |
+| 4              | O tempo de carregamento das telas principais (login, agendamento) não deve exceder 5 segundos (tolerância maior no MVP). |
 
 ---
 
