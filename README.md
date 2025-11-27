@@ -20,6 +20,12 @@ Para o desenvolvimento da plataforma, foram utilizadas as seguintes tecnologias:
 - **FS - file system para os arquivos do banco JSON.**
 - **Nodemailer - Biblioteca usada para envio de e-mail.**
 - **Mailtrap - Envio de fake "SMTP"**
+- **Vite - Ferramenta de compilação e servidor de desenvolvimento para projetos front-end.**
+- **ReactJS - Framework JavaScript para desenvolvimento front-end.**
+- **Tailwind CSS - Framework CSS que permite criar estilos personalizados.**
+- **React Icons - Biblioteca de icones para o React.**
+- **React Router DOM - Biblioteca para gerir rotas em aplicações React.**
+
 - **GitHub - Plataforma de desensolvimento colaborativo.**
 
 #### Instruções para Executar/Abrir o MVP
