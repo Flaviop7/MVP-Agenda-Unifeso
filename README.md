@@ -11,6 +11,7 @@
 
 #### Tecnologias Utilizadas
 Para o desenvolvimento da plataforma, foram utilizadas as seguintes tecnologias:
+- **JavaScript - Linguagem de programação usada para fazer páginas interativas da Internet.**
 - **NodeJS - Tecnologia usada para executar código JavaScript em ambiente de servidor.**
 - **TypesCript - Superconjunto do JavaScript que adiciona tipagem estática opcional à linguagem.**
 - **Express.js - simplifica a criação de aplicativos e APIs no lado do servidor.**
