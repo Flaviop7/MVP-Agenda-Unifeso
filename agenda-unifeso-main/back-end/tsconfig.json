@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /* Configurações de Módulo (O MAIS IMPORTANTE) */
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022",
+    "esModuleInterop": true,
+    
+    /* Configurações de Rigor */
+    "strict": true,
+    "skipLibCheck": true,
+    
+    /* Outras Configurações */
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist" // (Não vamos usar agora, mas é boa prática)
+  },
+  "include": ["src/**/*"] // Diz ao TypeScript para olhar apenas a pasta src
+}
